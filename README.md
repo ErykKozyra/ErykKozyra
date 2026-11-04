@@ -5,7 +5,8 @@
 The dropdown above is [terminalhinter](https://github.com/ErykKozyra/terminalhinter), my open source autocomplete for zsh and bash. Folders, git branches, npm scripts and 600+ CLIs show up as you type, each with a short description.
 
 ```sh
-npm i -g @erykkozyra/terminalhinter && thint init
+npm i -g @erykkozyra/terminalhinter
+thint init
 ```
 
 [LinkedIn](https://www.linkedin.com/in/eryk-kozyra) | [npm](https://www.npmjs.com/package/@erykkozyra/terminalhinter)
